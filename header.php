@@ -20,6 +20,7 @@
 		<h1>changes in branch new_branch</h1>
 =======
   	<h1>commit to master branch</h1>
+  	<h2>fffffffff</h2>
 >>>>>>> master
   	</div>
 		<a href="<?php echo home_url(); ?>" class="logo_link left">
