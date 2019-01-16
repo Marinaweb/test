@@ -16,9 +16,7 @@
 
   	<header id="header" class="center clearfix">
   	<div>
-  	<h1>hello git</h1>
-  	<p>la la la</p>
-  	<p>third commit</p>
+  	<h1>commit to master branch</h1>
   	</div>
 		<a href="<?php echo home_url(); ?>" class="logo_link left">
 			<img src="<?php if (get_theme_mod( 'logo' )) : echo get_theme_mod( 'logo'); else: echo get_template_directory_uri().'/build/images/logo.png'; endif; ?>" class="logo"/>
