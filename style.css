@@ -4,8 +4,9 @@ Description: Test theme for the best job in the world
 Version: 1.0.0
 
 
-* {
-	color: red;
-	font-size: 14px;
-	line-height: 25px;
+body {
+	color: black;
+	font-size: 16px;
+	line-height: 26px;
+	background: green;
 }
